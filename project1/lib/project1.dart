@@ -1,8 +1,11 @@
-int calculate() {
-  return 6 * 7;
+int multiply(a,b) {
+  return a*b;
 }
+
 
 
 String name(){
-  return 'Abhshek';
+  return 'Abhishek';
 }
+
+
